@@ -1,0 +1,11 @@
+{
+    "player": {
+                "id": 1,
+                "choose" : "nothing"
+            },
+    "bot": {
+                "id": 1,
+                "choose" : "nothing"
+            }
+
+}
